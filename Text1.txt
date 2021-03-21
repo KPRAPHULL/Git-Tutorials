@@ -1,5 +1,9 @@
 My 1st version
 
+<<<<<<< HEAD
 My 2nd version
 
 Change deleted
+=======
+My 2nd version
+>>>>>>> parent of 1a7bee5 (Version 3 GitHub Change)
